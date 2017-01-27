@@ -1,0 +1,4 @@
+name = "Rupert Kay"
+SID = "25847977"
+email = "rkay@berkeley.edu"
+github_name = "rupertkay1"
